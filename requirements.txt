@@ -1,7 +1,9 @@
-fastapi>=0.95.0
-uvicorn>=0.21.0
-playwright>=1.32.0
-aiohttp>=3.8.4
-python-dotenv>=1.0.0
-pydantic>=1.10.7
-httpx>=0.24.0
+fastapi==0.109.1
+uvicorn==0.27.0
+playwright==1.42.0
+python-dotenv==1.0.0
+pydantic==2.6.1
+slowapi==0.1.8
+fastapi-cache2==0.2.1
+redis==5.0.1
+httpx==0.26.0
